@@ -1,4 +1,4 @@
-# 💫 About Me: Hey there! 👋 I'm Ghulam Qadir,
+# 💫 Hey there! 👋 I'm Ghulam Qadir,
 ## A Passionate JavaScript Developer
 ### Loves to Crafting Dynamic and Scalable Web Applications with AI
 
