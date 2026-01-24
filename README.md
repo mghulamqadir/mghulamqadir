@@ -1,7 +1,7 @@
 # Ghulam Qadir
 
-I build backend systems and AI-powered products that feel fast, reliable, and actually useful.
-Big fan of clean architecture, practical automation, and shipping things people use.
+Backend engineer who likes building calm, stable systems — the kind that don’t wake you up at 3AM.
+I enjoy working on AI features when they solve real problems (RAG, search, automation), not just demos.
 
 ## What I do
 - Backend engineering with Node.js and FastAPI
