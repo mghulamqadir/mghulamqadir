@@ -18,6 +18,10 @@ I enjoy working on AI features when they solve real problems (RAG, search, autom
 ## Tech I like using
 Node.js, Express, FastAPI, MongoDB, PostgreSQL, Supabase, Qdrant/FAISS, AWS, GitHub Actions
 
+## Outside of code
+I’m pretty laid back — I like good coffee, long walks, and building small side-projects that automate life whenever it hard to find for small stuff.
+If I’m not coding, I’m usually watching a movies, reading about Tech news, or trying a new tool.
+
 ## Let’s connect
 - LinkedIn: https://www.linkedin.com/in/mghulamqadir/
 - Email: mohammadghulam.qadir@gmail.com
