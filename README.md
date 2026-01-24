@@ -1,27 +1,23 @@
 # Ghulam Qadir
 
-I build backend systems and AI features that are fast, reliable, and easy to live with, enjoy working on AI features when they solve real problems (RAG, search, automation), not just demos.
+Backend-leaning JavaScript developer building scalable APIs and practical AI features (RAG/search/automation) that feel fast, reliable, and easy to maintain.
 
-## What I build
-- Backend services with Node.js (Express) and Python (FastAPI)
-- AI integrations: RAG, embeddings, OpenAI APIs, vector search
-- Real-time + scalable APIs, microservices, and performance tuning
-- Databases: MongoDB, PostgreSQL, Supabase + vector tools (Qdrant / FAISS)
-- Deployments: Linux, AWS, CI/CD
+## Focus
+- **Backend & integrations:** Node.js (Express), FastAPI, secure auth, third-party integrations
+- **AI features:** RAG pipelines, embeddings, vector search (Qdrant/FAISS)
+- **Data & performance:** MongoDB/PostgreSQL/Supabase, caching, throughput, observability
+- **Shipping:** Docker, Linux, AWS, CI/CD
 
-## Highlights
-- Built AI chatbots using RAG + vector search for context-aware answers
-- Designed modular backends with clean architecture and role-based access control
-- Delivered payment and data workflows with reliability and observability in mind
-- Comfortable working across the stack when needed (APIs → integrations → deployment)
+## Proof of work
+- Built AI chat experiences with RAG + vector search for better, grounded answers
+- Designed modular services with clean architecture + role-based access control
+- Delivered payment + data workflows with reliability and monitoring in mind
 
-## Tech I like using
-JavaScript, TypeScript, Node.js, Express, FastAPI, MongoDB, PostgreSQL, Supabase, Docker, AWS, GitHub Actions
+## Stack (short list)
+• JS/TS • Node.js • Express • Python • FastAPI • MongoDB • PostgreSQL • Supabase • Docker • AWS • GitHub Actions
 
 ## Outside of code
-I reset with long walks and a good story — either Assassin’s Creed or a mystery series that actually pays off.  
-I’m usually in a YouTube rabbit hole (tech, business, or comedy), and I like keeping up with new system/product updates.  
-If there’s a new food spot worth trying, I’m probably there.
+Long walks, Assassin’s Creed, YouTube rabbit holes (tech/business/comedy), reading system updates, exploring food spots, and watching tech/mystery shows with a good story.
 
 ## Let’s connect
 - LinkedIn: https://www.linkedin.com/in/mghulamqadir/
