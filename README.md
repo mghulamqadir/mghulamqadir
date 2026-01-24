@@ -13,9 +13,6 @@ Backend-leaning JavaScript developer building scalable APIs and practical AI fea
 - Designed modular services with clean architecture + role-based access control
 - Delivered payment + data workflows with reliability and monitoring in mind
 
-## Stack (short list)
-• JS/TS • Node.js • Express • Python • FastAPI • MongoDB • PostgreSQL • Supabase • Docker • AWS • GitHub Actions
-
 ## Outside of code
 Long walks, Assassin’s Creed, YouTube rabbit holes (tech/business/comedy), reading system updates, exploring food spots, and watching tech/mystery shows with a good story.
 
