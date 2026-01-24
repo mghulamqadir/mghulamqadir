@@ -1,26 +1,27 @@
 # Ghulam Qadir
 
-Backend engineer who likes building calm, stable systems — the kind that don’t wake you up at 3AM.
-I enjoy working on AI features when they solve real problems (RAG, search, automation), not just demos.
+I build backend systems and AI features that are fast, reliable, and easy to live with, enjoy working on AI features when they solve real problems (RAG, search, automation), not just demos.
 
-## What I do
-- Backend engineering with Node.js and FastAPI
+## What I build
+- Backend services with Node.js (Express) and Python (FastAPI)
 - AI integrations: RAG, embeddings, OpenAI APIs, vector search
 - Real-time + scalable APIs, microservices, and performance tuning
-- Databases: MongoDB, PostgreSQL, Supabase + vector DBs (Qdrant / FAISS)
+- Databases: MongoDB, PostgreSQL, Supabase + vector tools (Qdrant / FAISS)
+- Deployments: Linux, AWS, CI/CD
 
 ## Highlights
-- Built AI chatbots with RAG + vector search for better context-aware answers
-- Designed modular backends and clean architecture
-- Improved backend performance by removing bottlenecks and optimizing data flows
-- Comfortable deploying on Linux + AWS and working end-to-end with teams
+- Built AI chatbots using RAG + vector search for context-aware answers
+- Designed modular backends with clean architecture and role-based access control
+- Delivered payment and data workflows with reliability and observability in mind
+- Comfortable working across the stack when needed (APIs → integrations → deployment)
 
 ## Tech I like using
-Node.js, Express, FastAPI, MongoDB, PostgreSQL, Supabase, Qdrant/FAISS, AWS, GitHub Actions
+JavaScript, TypeScript, Node.js, Express, FastAPI, MongoDB, PostgreSQL, Supabase, Docker, AWS, GitHub Actions
 
 ## Outside of code
-I’m pretty laid back — I like good coffee, long walks, and building small side-projects that automate life whenever it hard to find for small stuff.
-If I’m not coding, I’m usually watching a movies, reading about Tech news, or trying a new tool.
+I reset with long walks and a good story — either Assassin’s Creed or a mystery series that actually pays off.  
+I’m usually in a YouTube rabbit hole (tech, business, or comedy), and I like keeping up with new system/product updates.  
+If there’s a new food spot worth trying, I’m probably there.
 
 ## Let’s connect
 - LinkedIn: https://www.linkedin.com/in/mghulamqadir/
