@@ -1,5 +1,9 @@
 # Ghulam Qadir
 
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=hoangnv170752&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+</p>
+
 Backend-leaning JavaScript developer building scalable APIs and practical AI features (RAG/search/automation) that feel fast, reliable, and easy to maintain.
 
 ## Focus
