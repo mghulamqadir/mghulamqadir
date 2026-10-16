@@ -1,103 +1,107 @@
 ![Ghulam Qadir](https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=190&section=header&text=Ghulam%20Qadir&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Backend%20Engineer%20%7C%20Full%20Stack%20Developer%20%7C%20AI%20Systems&descSize=16&descAlignY=59)
 
-### Hey, I'm Ghulam 👋
+**[Explore my GitHub](https://github.com/mghulamqadir?tab=repositories)** · **[Connect on LinkedIn](https://www.linkedin.com/in/mghulamqadir/)** · **[Send an email]
 
-I'm a backend-focused Full Stack Engineer who enjoys building things that are useful, scalable, and thoughtfully engineered.
+### The interesting part happens behind the screen.
 
-My work revolves around **backend architecture, AI-powered systems, database design, and third-party integrations**. From REST APIs to RAG pipelines and real-time applications, I like turning complex problems into simple, reliable solutions.
+A payment succeeds, but the browser closes before the response arrives.
 
-[![GitHub](https://img.shields.io/badge/GitHub-mghulamqadir-181717?style=flat-square&logo=github)](https://github.com/mghulamqadir)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mghulamqadir/)
-[![Email](https://img.shields.io/badge/Email-Say_Hello-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:mohammadghulam.qadir@gmail.com)
+Two people edit the same document at the same time.
 
-![Profile views](https://komarev.com/ghpvc/?username=mghulamqadir&label=Profile%20views&color=2563eb&style=flat-square)
+A thousand-page PDF needs to become something an AI system can actually search.
 
----
+Different problems. Different solutions. All the kind of engineering I enjoy.
 
-### ⚡ What I Do
+I'm **Ghulam Qadir**, a backend-focused Full Stack Engineer with 3 years of experience working with SaaS applications, APIs, databases, payments, and AI systems.
 
-- 🏗️ **Backend Engineering** — Scalable REST APIs, modular architecture, authentication, RBAC, and service integrations.
-- 🤖 **AI Engineering** — LLM integrations, RAG pipelines, embeddings, semantic search, and intelligent automation.
-- 🗄️ **Data & Performance** — PostgreSQL, MongoDB, Supabase, database modeling, and query optimization.
-- ☁️ **Infrastructure** — Docker, AWS, cloud deployment, and reliable backend services.
-- 🔗 **Integrations** — Stripe payments, webhooks, cloud storage, and external APIs.
-
-### 🛠️ Tech Stack
-
-**Languages & Frameworks**
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-
-**Databases & AI**
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
-![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=flat-square&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-
-**Cloud & Tools**
-
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white)
+I spend most of my time with **Node.js, TypeScript, Python, PostgreSQL, and MongoDB** — figuring out how to make things work beyond the happy path.
 
 ---
 
-### 🚀 Selected Work
+### A few things I've been building
 
-A few things I've built and explored on GitHub.
+**01 / What if two people could write on the same page, instantly?**
 
-| Project | What it does |
+[Write Me Live →](https://github.com/mghulamqadir/write-me-live)
+
+A shared writing space where two people can type, edit, and see each other's changes in real time.
+
+Built with Next.js, Liveblocks, Yjs, and Tiptap. No accounts, no complicated setup. Just create a room and share the link.
+
+*The interesting part: keeping both editors in sync without losing anyone's work.*
+
+**02 / What happens after someone clicks "Pay"?**
+
+[Cogni Sacra Backend →](https://github.com/mghulamqadir/cogni-sacra-backend)
+
+Payments involve more than a successful API response.
+
+I built a TypeScript backend with Stripe integration, payment webhooks, JWT authentication, MongoDB, transactional email, and cloud media handling.
+
+*The interesting part: coordinating payments, authentication, and external services within a maintainable API.*
+
+**03 / Can you make a scanned document searchable again?**
+
+[Scanned to Searchable PDF →](https://github.com/mghulamqadir/scanned-to-searchable-pdf)
+
+A scanned PDF is basically a collection of pictures. You can read it, but you can't reliably search or select the text.
+
+I built a Python/Streamlit tool using OCR to turn those scanned pages into searchable PDFs, with parallel processing to handle larger documents.
+
+*The interesting part: making existing documents useful without manually retyping them.*
+
+**04 / How do you make documents searchable by meaning?**
+
+[Qdrant Document Indexing →](https://github.com/mghulamqadir/qdrant-cluoud-setup)
+
+A small experiment in the foundations of retrieval-augmented generation.
+
+PDF documents go through text extraction, chunking, Hugging Face embeddings, and vector indexing in Qdrant Cloud.
+
+*The interesting part: turning unstructured text into something a semantic search system can retrieve.*
+
+**05 / The less visible side of application development**
+
+[Market Guardian AI Backend →](https://github.com/mghulamqadir/market-guardian-ai-backend)
+
+An Express and PostgreSQL backend with Sequelize, JWT authentication, database migrations, email workflows, and AWS S3 uploads.
+
+This is the kind of backend foundation I spend a lot of my professional time working on.
+
+---
+
+### The tools behind the work
+
+I don't believe in listing every technology I've ever opened in an editor. These are the ones I actually work with.
+
+| | |
 |---|---|
-| 🛡️ **[Market Guardian AI Backend](https://github.com/mghulamqadir/market-guardian-ai-backend)** | Express, PostgreSQL, JWT authentication, AWS S3 integration, and modular backend services. |
-| 🧠 **[Cogni Sacra Backend](https://github.com/mghulamqadir/cogni-sacra-backend)** | TypeScript backend with MongoDB, Stripe payments, webhooks, authentication, and media management. |
-| ✍️ **[Write Me Live](https://github.com/mghulamqadir/write-me-live)** | Real-time collaborative writing using Next.js, Liveblocks, Yjs, and Tiptap. |
-| 🔎 **[Qdrant Cloud Setup](https://github.com/mghulamqadir/qdrant-cluoud-setup)** | Document embeddings, vector indexing, and semantic retrieval using LangChain and Qdrant. |
-| 📄 **[Scanned to Searchable PDF](https://github.com/mghulamqadir/scanned-to-searchable-pdf)** | Python-based OCR tool converting scanned documents into searchable PDFs. |
-| ⚙️ **[PostgreSQL Backend Boilerplate](https://github.com/mghulamqadir/backend-boiler-plate-postgres)** | Reusable backend starter with PostgreSQL, Sequelize, authentication, and role management. |
+| **Backend** | Node.js · Express · TypeScript · FastAPI |
+| **Data** | PostgreSQL · MongoDB · Supabase · Sequelize |
+| **AI & Search** | LLMs · RAG · LangChain · Qdrant |
+| **Frontend** | React · Next.js · Tailwind CSS |
+| **Infrastructure** | AWS · Docker · Linux |
+| **Integrations** | Stripe · REST APIs · Webhooks |
 
-Explore more → [All Repositories](https://github.com/mghulamqadir?tab=repositories)
+### What keeps me interested
 
----
+I like the questions that come after the feature is working.
 
-### 📊 GitHub Activity
+What if the same request arrives twice? What happens when a third-party API doesn't respond? How do you keep a codebase understandable as it grows?
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mghulamqadir&show_icons=true&theme=tokyonight&hide_border=true&count_private=false)
+Not every problem needs a complicated solution. Sometimes the best engineering decision is knowing what *not* to build.
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mghulamqadir&layout=compact&theme=tokyonight&hide_border=true)
+Outside of development, I'm usually taking long walks, playing Assassin's Creed, exploring food spots, following tech and business stories, or getting lost in a good mystery series.
 
----
-
-### 💡 How I Think About Engineering
-
-Good software is more than code that works.
-
-I care about clean architecture, thoughtful database design, security, performance, and making systems easier to maintain as they grow.
-
-I'm especially interested in the intersection of **backend engineering, AI, and automation**, where practical solutions can make a real difference.
-
-### 🎮 When I'm Not Coding
-
-Probably taking a long walk, playing Assassin's Creed, exploring new food spots, falling into YouTube rabbit holes, or watching a tech/mystery show with a good storyline.
-
-Always curious about what's happening next in technology.
+And yes, sometimes a quick YouTube video turns into a two-hour rabbit hole.
 
 ---
 
-### 🤝 Let's Build Something
+### If you've made it this far...
 
-Interested in backend systems, AI applications, or collaborating on an interesting idea? Feel free to reach out.
+You probably care about the details too.
 
-[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mghulamqadir/)
-[![Email](https://img.shields.io/badge/Send_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohammadghulam.qadir@gmail.com)
+I'm always interested in discussing backend systems, AI applications, unusual engineering problems, or something worth building.
+(mailto:mohammadghulam.qadir@gmail.com)**
 
-*Build thoughtfully. Keep learning. Ship things that matter.*
+*The code is only part of the story. The decisions behind it are what make engineering interesting.*
