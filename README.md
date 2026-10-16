@@ -1,107 +1,84 @@
-![Ghulam Qadir](https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=190&section=header&text=Ghulam%20Qadir&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Backend%20Engineer%20%7C%20Full%20Stack%20Developer%20%7C%20AI%20Systems&descSize=16&descAlignY=59)
 
-**[Explore my GitHub](https://github.com/mghulamqadir?tab=repositories)** · **[Connect on LinkedIn](https://www.linkedin.com/in/mghulamqadir/)** · **[Send an email]
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=190&section=header&text=Ghulam%20Qadir&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Backend%20Engineer%20%7C%20Full%20Stack%20Developer%20%7C%20AI%20Systems&descSize=16&descAlignY=59" width="100%" alt="Ghulam Qadir — Backend Engineer, Full Stack Developer, AI Systems" />
+</p>
 
 ### The interesting part happens behind the screen.
 
-A payment succeeds, but the browser closes before the response arrives.
+Two people editing the same document. A payment that needs to be handled securely. A scanned PDF that can't be searched.
 
-Two people edit the same document at the same time.
+I like working on the systems that make those experiences possible.
 
-A thousand-page PDF needs to become something an AI system can actually search.
-
-Different problems. Different solutions. All the kind of engineering I enjoy.
-
-I'm **Ghulam Qadir**, a backend-focused Full Stack Engineer with 3 years of experience working with SaaS applications, APIs, databases, payments, and AI systems.
-
-I spend most of my time with **Node.js, TypeScript, Python, PostgreSQL, and MongoDB** — figuring out how to make things work beyond the happy path.
+I'm **Ghulam Qadir**, a backend-focused full-stack engineer with **3 years of experience** building APIs, SaaS features, payment integrations, and AI-powered workflows. Most of my work is in **Node.js, TypeScript, PostgreSQL, and MongoDB**.
 
 ---
 
-### A few things I've been building
+### Selected work
 
-**01 / What if two people could write on the same page, instantly?**
+A few projects from my public repositories — from backend foundations to tools I wanted to exist.
 
-[Write Me Live →](https://github.com/mghulamqadir/write-me-live)
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>✍️ <a href="https://github.com/mghulamqadir/write-me-live">Write Me Live ↗</a></h3>
+      <p>Two people, one document, no sign-up. A real-time writing room with shared editing and live presence.</p>
+      <p><code>Next.js</code> <code>Liveblocks</code> <code>Yjs</code></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🧠 <a href="https://github.com/mghulamqadir/cogni-sacra-backend">Cogni Sacra ↗</a></h3>
+      <p>A TypeScript API connecting authentication, Stripe payments and webhooks, email, and media uploads.</p>
+      <p><code>Express</code> <code>MongoDB</code> <code>Stripe</code></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🛡️ <a href="https://github.com/mghulamqadir/market-guardian-ai-backend">Market Guardian API ↗</a></h3>
+      <p>Backend services for user profiles, authentication, email workflows, and cloud media handling.</p>
+      <p><code>Node.js</code> <code>PostgreSQL</code> <code>AWS S3</code></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>📄 <a href="https://github.com/mghulamqadir/scanned-to-searchable-pdf">Searchable PDF ↗</a></h3>
+      <p>Turns image-only PDFs into searchable documents using OCR, with parallel processing for larger files.</p>
+      <p><code>Python</code> <code>Streamlit</code> <code>OCR</code></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🔎 <a href="https://github.com/mghulamqadir/qdrant-cluoud-setup">Qdrant Document Indexing ↗</a></h3>
+      <p>From PDF text to vector search: chunking, Hugging Face embeddings, and indexing in Qdrant Cloud.</p>
+      <p><code>LangChain</code> <code>Qdrant</code> <code>Python</code></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>⚙️ <a href="https://github.com/mghulamqadir/backend-boiler-plate-postgres">PostgreSQL Backend Starter ↗</a></h3>
+      <p>A reusable Express API foundation with JWT auth, roles, Sequelize migrations, and S3 uploads.</p>
+      <p><code>Express</code> <code>Sequelize</code> <code>PostgreSQL</code></p>
+    </td>
+  </tr>
+</table>
 
-A shared writing space where two people can type, edit, and see each other's changes in real time.
-
-Built with Next.js, Liveblocks, Yjs, and Tiptap. No accounts, no complicated setup. Just create a room and share the link.
-
-*The interesting part: keeping both editors in sync without losing anyone's work.*
-
-**02 / What happens after someone clicks "Pay"?**
-
-[Cogni Sacra Backend →](https://github.com/mghulamqadir/cogni-sacra-backend)
-
-Payments involve more than a successful API response.
-
-I built a TypeScript backend with Stripe integration, payment webhooks, JWT authentication, MongoDB, transactional email, and cloud media handling.
-
-*The interesting part: coordinating payments, authentication, and external services within a maintainable API.*
-
-**03 / Can you make a scanned document searchable again?**
-
-[Scanned to Searchable PDF →](https://github.com/mghulamqadir/scanned-to-searchable-pdf)
-
-A scanned PDF is basically a collection of pictures. You can read it, but you can't reliably search or select the text.
-
-I built a Python/Streamlit tool using OCR to turn those scanned pages into searchable PDFs, with parallel processing to handle larger documents.
-
-*The interesting part: making existing documents useful without manually retyping them.*
-
-**04 / How do you make documents searchable by meaning?**
-
-[Qdrant Document Indexing →](https://github.com/mghulamqadir/qdrant-cluoud-setup)
-
-A small experiment in the foundations of retrieval-augmented generation.
-
-PDF documents go through text extraction, chunking, Hugging Face embeddings, and vector indexing in Qdrant Cloud.
-
-*The interesting part: turning unstructured text into something a semantic search system can retrieve.*
-
-**05 / The less visible side of application development**
-
-[Market Guardian AI Backend →](https://github.com/mghulamqadir/market-guardian-ai-backend)
-
-An Express and PostgreSQL backend with Sequelize, JWT authentication, database migrations, email workflows, and AWS S3 uploads.
-
-This is the kind of backend foundation I spend a lot of my professional time working on.
+<p align="right"><a href="https://github.com/mghulamqadir?tab=repositories">More repositories →</a></p>
 
 ---
 
-### The tools behind the work
+### What I reach for
 
-I don't believe in listing every technology I've ever opened in an editor. These are the ones I actually work with.
+**Backend:** `Node.js` · `Express` · `TypeScript` · `Python` · `FastAPI`  
+**Data:** `PostgreSQL` · `MongoDB` · `Supabase` · `Sequelize`  
+**AI & search:** `RAG` · `LLM APIs` · `LangChain` · `Qdrant`  
+**The rest:** `React` · `Next.js` · `Docker` · `AWS` · `Stripe`
 
-| | |
-|---|---|
-| **Backend** | Node.js · Express · TypeScript · FastAPI |
-| **Data** | PostgreSQL · MongoDB · Supabase · Sequelize |
-| **AI & Search** | LLMs · RAG · LangChain · Qdrant |
-| **Frontend** | React · Next.js · Tailwind CSS |
-| **Infrastructure** | AWS · Docker · Linux |
-| **Integrations** | Stripe · REST APIs · Webhooks |
+I care most about the parts that are easy to overlook: **data relationships, access control, failure handling, and making code understandable for the next person who touches it.**
 
-### What keeps me interested
+### Beyond the terminal
 
-I like the questions that come after the feature is working.
-
-What if the same request arrives twice? What happens when a third-party API doesn't respond? How do you keep a codebase understandable as it grows?
-
-Not every problem needs a complicated solution. Sometimes the best engineering decision is knowing what *not* to build.
-
-Outside of development, I'm usually taking long walks, playing Assassin's Creed, exploring food spots, following tech and business stories, or getting lost in a good mystery series.
-
-And yes, sometimes a quick YouTube video turns into a two-hour rabbit hole.
+Long walks, Chess, finding good food, and YouTube rabbit holes about technology and business. I also appreciate a mystery series that makes you rethink the ending.
 
 ---
 
-### If you've made it this far...
+<p align="center"><b>Found something interesting? Let's connect.</b></p>
 
-You probably care about the details too.
-
-I'm always interested in discussing backend systems, AI applications, unusual engineering problems, or something worth building.
-(mailto:mohammadghulam.qadir@gmail.com)**
-
-*The code is only part of the story. The decisions behind it are what make engineering interesting.*
+<p align="center">
+  <a href="https://github.com/mghulamqadir?tab=repositories"><img src="https://cdn.simpleicons.org/github/808080" width="34" height="34" alt="GitHub" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/mghulamqadir/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="34" height="34" alt="LinkedIn" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:mohammadghulam.qadir@gmail.com"><img src="https://cdn.simpleicons.org/gmail/EA4335" width="34" height="34" alt="Email" /></a>
+</p>
